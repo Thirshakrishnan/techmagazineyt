@@ -1,1 +1,1 @@
-# techmagazineyt
+# ecommerce-shop-starter
